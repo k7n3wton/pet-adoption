@@ -205,7 +205,7 @@ body {
 .pet-card {
   overflow: hidden;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  grid-template-columns: 120px 1fr;
   border: 1px solid #F3F3F3;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.08);
   border-radius: 20px;
